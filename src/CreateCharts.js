@@ -1,6 +1,6 @@
 import React from "react";
 import { Line } from "react-chartjs-2";
-import myData from "./data.json";
+import myData from "data.json";
 
 import {
   Chart as ChartJS,
